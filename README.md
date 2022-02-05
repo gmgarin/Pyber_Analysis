@@ -7,5 +7,5 @@
 ## **Results**
 
 ### After careful analysis, the following results were obtained.
-#### - Ride-sharing data per city type
+#### -Ride-sharing data per city type
 ![This is an image](/Resources/ride-sharing_data.png)
